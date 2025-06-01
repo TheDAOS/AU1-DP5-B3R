@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Django
+*.log
+*.pot
+*.pyc
+*.mo
+*.db
+*.sqlite3
+*.sqlite3-journal
+
+# Environment
+.env
+.env.*
+venv/
+.venv/
+ENV/
+env/
+*.env
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Migrations
+*/migrations/__pycache__/
+*/migrations/*.pyc
+
+# Static and media files
+/staticfiles/
+/media/
+
+# Coverage reports
+htmlcov/
+.coverage
+.tox/
+.nox/
+.cache/
+.pytest_cache/
+
+# Node modules (if using frontend)
+node_modules/
+
+# Others
+*.swp
+*.swo
