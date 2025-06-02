@@ -33,8 +33,8 @@ env/
 .idea/
 
 # Migrations
-*/migrations/__pycache__/
-*/migrations/*.pyc
+# */migrations/__pycache__/
+# */migrations/*.pyc
 
 # Static and media files
 /staticfiles/
