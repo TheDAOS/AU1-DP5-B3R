@@ -1,1 +1,1 @@
-web: gunicorn au1_dp5_b3r.wsgi
+web: python manage.py migrate && gunicorn au1_dp5_b3r.wsgi
