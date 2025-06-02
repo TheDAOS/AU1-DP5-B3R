@@ -1,1 +1,1 @@
-web: gunicorn myproject.wsgi
+web: gunicorn au1_dp5_b3r.wsgi
