@@ -37,7 +37,7 @@ env/
 # */migrations/*.pyc
 
 # Static and media files
-/staticfiles/
+# /staticfiles/
 /media/
 
 # Coverage reports
